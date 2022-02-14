@@ -20,7 +20,7 @@ body {
 	--bkg: rgb(0, 0, 145);
 
 	color: var(--black);
-	background:url("/img/alas.gif");
+	background:url("../img/alas.gif");
 }
 
 ul {
