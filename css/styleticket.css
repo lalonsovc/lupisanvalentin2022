@@ -12,15 +12,13 @@ body {
 	place-items: center;
 	font-family: "Oswald", sans-serif;
 	text-transform: uppercase;
-
+	background:url("../img/alas.gif");
 	--black: rgba(182, 31, 182, 0.8);
 	--beige: #e5f4f8;
 	--mustard: #79d7ee;
 	--border: 4px solid var(--black);
 	--bkg: rgb(0, 0, 145);
-
 	color: var(--black);
-	background:url("../img/alas.gif");
 }
 
 ul {
